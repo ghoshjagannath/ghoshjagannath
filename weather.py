@@ -60,4 +60,4 @@ def temperature_of_place_f(name):
 
 
 
-# temperature_of_place_f("Howrah")
+temperature_of_place_f("Howrah")
