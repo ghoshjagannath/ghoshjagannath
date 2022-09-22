@@ -60,4 +60,9 @@ def temperature_of_place_f(name):
 
 
 
-temperature_of_place_f("Howrah")
+
+lis=['howrah','delhi','noida','London']
+
+
+for name in lis:
+    temperature_of_place_f(name)
